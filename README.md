@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Dan
 Software Engineer with six years of experience in the general manufacturing industry, complemented by a recent immersion in a comprehensive software engineering boot camp. Committed to leveraging my expertise in quality assurance methodologies and applying emerging software engineering skills to drive excellence in the tech industry. Successfully utilized root cause analysis to find issues and took corrective action to prevent their recurrence. Seeking a challenging role as a Quality Engineer to contribute to software development projects and enhance overall product quality in a dynamic and innovative environment.
 
